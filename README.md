@@ -26,7 +26,7 @@ Please review the developer's current capabilities and areas of focus.
 **Summary**
 A developer who keeps writing code even while sick, pushing through headaches and low energy.
 Often tries to take a break, but somehow ends up fixing bugs and building things anyway.
-Prefers simple, readable, and efficient solutions—especially on days when overcomplicating things just isn’t an option.
+Prefers simple, readable, and efficient solutions, especially on days when overcomplicating things just isn’t an option.
 
 ---
 
